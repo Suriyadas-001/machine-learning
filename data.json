@@ -1,0 +1,7 @@
+{
+    "Name" : ["Ankan","Indra","Sujoy","Saheb","Anupam","Santanu","Pabitra"],
+    "Age" : [22,23,19,23,null,23,19],
+    "Grade" : ["A","C","B",null,null,"C","A"],
+    "ratings" : ["best","good","good","better","best","good","better"],
+    "Salary" : [40000,null,55000,67000,null,34000,73000]
+}
